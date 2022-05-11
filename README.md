@@ -139,7 +139,7 @@ The projucer file stores two folders:
 ## Notes
 
 * The system has been built and tested on Windows 10 OS machines built using VISUAL STUDIO 22 and on MAC OS using XCODE.
-* The plugin has been tested on REAPER both on Windows and MAC and on Garage Band. 
+* The plugin has been tested on REAPER and Ableton Live both on Windows and MAC and on Garage Band. 
 
 ## Components 
 Alberto Doimo (alberto.doimo@mail.polimi.it) </p>
