@@ -30,12 +30,10 @@ In order to build the plugin on your own Computer:
 1. Download the [Juce source code](https://juce.com/get-juce)
 2. Clone this repo
 3. Open ADHD.jucer 
-4. Add the <em>juce_dsp</em> module to the module list
-5. Choose the preferred IDE used to build the plugin
-6. Run the juce project in order to open it in the IDE
-7. Build the plugin in the IDE
-8. Import it in the plugins folder of your DAW
-9. TRY IT!! 
+4. Launch your IDE from Projucer
+5. Build the plugin in the IDE
+6. Import it in the plugins folder of your DAW
+7. TRY IT!! 
 
 
 
