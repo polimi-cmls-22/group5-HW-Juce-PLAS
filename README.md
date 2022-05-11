@@ -110,12 +110,8 @@ On the video below we can see the non-linear response function associated with t
 
 ## Distorted Signals
 
-<<<<<<< HEAD
-  https://user-images.githubusercontent.com/62107154/167875579-683dd9cf-f5f1-4443-9715-3be7659e71a0.mp4
-=======
 <br>
 Here you can appreciate how a sinusoidal input is affected by the normal distortion function while the gain goes from minimum to maximum value.
->>>>>>> 4dfce88df2cac6516e5a0d32f9eae7e922018e32
 
 https://user-images.githubusercontent.com/62107154/167875579-683dd9cf-f5f1-4443-9715-3be7659e71a0.mp4
 
