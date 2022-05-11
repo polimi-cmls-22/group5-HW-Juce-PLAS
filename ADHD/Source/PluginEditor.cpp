@@ -194,12 +194,12 @@ void ADHDAudioProcessorEditor::paint (juce::Graphics& g)
     else g.drawImageAt(bg, 0, 0);
 
     if (LRButton.getToggleState()) {
-        g.drawImageAt(lrLabel, 77, 82);
-        g.drawImageAt(lrLabelMeter, 859, 86);
+        g.drawImageAt(lrLabel, 77, 82+32);
+        g.drawImageAt(lrLabelMeter, 859, 86+32);
     }
     else {
-        g.drawImageAt(msLabel, 77, 82);
-        g.drawImageAt(msLabelMeter, 859, 86);
+        g.drawImageAt(msLabel, 77, 82+32);
+        g.drawImageAt(msLabelMeter, 859, 86+32);
     }
 }
 
