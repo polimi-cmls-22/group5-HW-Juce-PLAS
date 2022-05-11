@@ -5,7 +5,102 @@
               pluginFormats="buildAU,buildVST3" companyName="PLAS" pluginName="ADHD"
               pluginDesc="Auto Destructive Harmonic Distortion" pluginManufacturer="PLAS"
               pluginManufacturerCode="PLAS" pluginVST3Category="Distortion">
-  <MAINGROUP id="fSjJcU" name="ADHD"/>
+  <MAINGROUP id="fSjJcU" name="ADHD">
+    <GROUP id="{7D870AD0-84DB-60B9-481F-2407A4EA1F92}" name="Assets">
+      <FILE id="MtgmeH" name="BG.png" compile="0" resource="1" file="Assets/BG.png"/>
+      <FILE id="neIFcU" name="bigKnobD.png" compile="0" resource="1" file="Assets/bigKnobD.png"/>
+      <FILE id="GUq8jV" name="bigKnobN.png" compile="0" resource="1" file="Assets/bigKnobN.png"/>
+      <FILE id="usW18g" name="dButtonOff.png" compile="0" resource="1" file="Assets/dButtonOff.png"/>
+      <FILE id="ttCBFC" name="dButtonOn.png" compile="0" resource="1" file="Assets/dButtonOn.png"/>
+      <FILE id="nsQYvV" name="Destroy Button.png" compile="0" resource="1"
+            file="Assets/Destroy Button.png"/>
+      <FILE id="iP5Jt8" name="Destroyed Link Button.png" compile="0" resource="1"
+            file="Assets/Destroyed Link Button.png"/>
+      <FILE id="i6wtQ4" name="Destroyed LR Button.png" compile="0" resource="1"
+            file="Assets/Destroyed LR Button.png"/>
+      <FILE id="yf4lcc" name="Destroyed MS Button.png" compile="0" resource="1"
+            file="Assets/Destroyed MS Button.png"/>
+      <FILE id="Gr7fPr" name="Destroyed ON BP Button.png" compile="0" resource="1"
+            file="Assets/Destroyed ON BP Button.png"/>
+      <FILE id="AtVvwk" name="Destroyed ON Button.png" compile="0" resource="1"
+            file="Assets/Destroyed ON Button.png"/>
+      <FILE id="CFpXoB" name="Destroyed ON HP Button.png" compile="0" resource="1"
+            file="Assets/Destroyed ON HP Button.png"/>
+      <FILE id="XQaLF6" name="Destroyed ON LP Button.png" compile="0" resource="1"
+            file="Assets/Destroyed ON LP Button.png"/>
+      <FILE id="oofVxU" name="GUI definitivaBG Destroy.png" compile="0" resource="1"
+            file="Assets/GUI definitivaBG Destroy.png"/>
+      <FILE id="JugF59" name="GUI definitivaBG.png" compile="0" resource="1"
+            file="Assets/GUI definitivaBG.png"/>
+      <FILE id="Q2YGBG" name="Link Button.png" compile="0" resource="1" file="Assets/Link Button.png"/>
+      <FILE id="CTnHBy" name="LR Button.png" compile="0" resource="1" file="Assets/LR Button.png"/>
+      <FILE id="WYD6uq" name="LR labels meters.png" compile="0" resource="1"
+            file="Assets/LR labels meters.png"/>
+      <FILE id="B9HnZo" name="LR labels.png" compile="0" resource="1" file="Assets/LR labels.png"/>
+      <FILE id="wGh3y6" name="Meter Destroyed.png" compile="0" resource="1"
+            file="Assets/Meter Destroyed.png"/>
+      <FILE id="T6cRny" name="Meter.png" compile="0" resource="1" file="Assets/Meter.png"/>
+      <FILE id="USSPNq" name="MS Button.png" compile="0" resource="1" file="Assets/MS Button.png"/>
+      <FILE id="h3keuR" name="MS labels meters.png" compile="0" resource="1"
+            file="Assets/MS labels meters.png"/>
+      <FILE id="jYJlTq" name="MS labels.png" compile="0" resource="1" file="Assets/MS labels.png"/>
+      <FILE id="xTJTfR" name="New Knob Small.png" compile="0" resource="1"
+            file="Assets/New Knob Small.png"/>
+      <FILE id="E2d0ii" name="OFF BP Button.png" compile="0" resource="1"
+            file="Assets/OFF BP Button.png"/>
+      <FILE id="D9IS8C" name="OFF Button.png" compile="0" resource="1" file="Assets/OFF Button.png"/>
+      <FILE id="AoZcXx" name="OFF HP Button.png" compile="0" resource="1"
+            file="Assets/OFF HP Button.png"/>
+      <FILE id="aIkl0J" name="OFF LP Button.png" compile="0" resource="1"
+            file="Assets/OFF LP Button.png"/>
+      <FILE id="WNh5kD" name="OFF LR Button.png" compile="0" resource="1"
+            file="Assets/OFF LR Button.png"/>
+      <FILE id="uxekgJ" name="OFF MS Button.png" compile="0" resource="1"
+            file="Assets/OFF MS Button.png"/>
+      <FILE id="ZZiC8o" name="ON BP Button.png" compile="0" resource="1"
+            file="Assets/ON BP Button.png"/>
+      <FILE id="klCrds" name="ON Button.png" compile="0" resource="1" file="Assets/ON Button.png"/>
+      <FILE id="QGPD5g" name="ON HP Button.png" compile="0" resource="1"
+            file="Assets/ON HP Button.png"/>
+      <FILE id="Eezeh6" name="ON LP Button.png" compile="0" resource="1"
+            file="Assets/ON LP Button.png"/>
+      <FILE id="Xaw3jY" name="Primary Destroyed.png" compile="0" resource="1"
+            file="Assets/Primary Destroyed.png"/>
+      <FILE id="AL8Uw6" name="Primary Disabled.png" compile="0" resource="1"
+            file="Assets/Primary Disabled.png"/>
+      <FILE id="ezIAXd" name="Primary.png" compile="0" resource="1" file="Assets/Primary.png"/>
+      <FILE id="UzE3Zy" name="Secondary Destroyed.png" compile="0" resource="1"
+            file="Assets/Secondary Destroyed.png"/>
+      <FILE id="bUbFJ2" name="Secondary Disabled.png" compile="0" resource="1"
+            file="Assets/Secondary Disabled.png"/>
+      <FILE id="V5VXbv" name="Secondary.png" compile="0" resource="1" file="Assets/Secondary.png"/>
+      <FILE id="sSMlCX" name="Undestroy Button.png" compile="0" resource="1"
+            file="Assets/Undestroy Button.png"/>
+      <FILE id="sOzJUY" name="Unlink Button.png" compile="0" resource="1"
+            file="Assets/Unlink Button.png"/>
+    </GROUP>
+    <GROUP id="{B326FB2E-EEE8-9F4F-BF1F-B939E0659C9C}" name="Source">
+      <FILE id="KG9Ndf" name="ChannelComponent.cpp" compile="1" resource="0"
+            file="Source/ChannelComponent.cpp"/>
+      <FILE id="HYYYOm" name="ChannelComponent.h" compile="0" resource="0"
+            file="Source/ChannelComponent.h"/>
+      <FILE id="CqpwoF" name="PLASLevelMeter.cpp" compile="1" resource="0"
+            file="Source/PLASLevelMeter.cpp"/>
+      <FILE id="OFEqPz" name="PLASLevelMeter.h" compile="0" resource="0"
+            file="Source/PLASLevelMeter.h"/>
+      <FILE id="UJh7mW" name="PlasLookAndFeel.cpp" compile="1" resource="0"
+            file="Source/PlasLookAndFeel.cpp"/>
+      <FILE id="NwtCDI" name="PlasLookAndFeel.h" compile="0" resource="0"
+            file="Source/PlasLookAndFeel.h"/>
+      <FILE id="S3s3CS" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="em2nsz" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="pqh7Uj" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="UahzHu" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+    </GROUP>
+  </MAINGROUP>
   <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
   <EXPORTFORMATS>
     <VS2019 targetFolder="Builds/VisualStudio2019">
