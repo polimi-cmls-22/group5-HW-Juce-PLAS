@@ -1,105 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="HYCpJq" name="ADHD" projectType="guiapp" useAppConfig="0"
+<JUCERPROJECT id="OfNq0d" name="ADHD" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
-              companyName="PLAS">
-  <MAINGROUP id="BHJ0vb" name="ADHD">
-    <GROUP id="{359F5B61-3911-4FD7-8F37-3E9C15E8704E}" name="Assets">
-      <FILE id="Pl6HPz" name="BG.png" compile="0" resource="1" file="Assets/BG.png"/>
-      <FILE id="aqo9Et" name="bigKnobD.png" compile="0" resource="1" file="Assets/bigKnobD.png"/>
-      <FILE id="KBzMJi" name="bigKnobN.png" compile="0" resource="1" file="Assets/bigKnobN.png"/>
-      <FILE id="g05cqF" name="dButtonOff.png" compile="0" resource="1" file="Assets/dButtonOff.png"/>
-      <FILE id="MINuMG" name="dButtonOn.png" compile="0" resource="1" file="Assets/dButtonOn.png"/>
-      <FILE id="n0JQEv" name="Destroy Button.png" compile="0" resource="1"
-            file="Assets/Destroy Button.png"/>
-      <FILE id="oObOqv" name="Destroyed Link Button.png" compile="0" resource="1"
-            file="Assets/Destroyed Link Button.png"/>
-      <FILE id="VhfnJI" name="Destroyed LR Button.png" compile="0" resource="1"
-            file="Assets/Destroyed LR Button.png"/>
-      <FILE id="PrhNdy" name="Destroyed MS Button.png" compile="0" resource="1"
-            file="Assets/Destroyed MS Button.png"/>
-      <FILE id="uuDGsN" name="Destroyed ON BP Button.png" compile="0" resource="1"
-            file="Assets/Destroyed ON BP Button.png"/>
-      <FILE id="ddJVT7" name="Destroyed ON Button.png" compile="0" resource="1"
-            file="Assets/Destroyed ON Button.png"/>
-      <FILE id="YpYpyn" name="Destroyed ON HP Button.png" compile="0" resource="1"
-            file="Assets/Destroyed ON HP Button.png"/>
-      <FILE id="qwmEfe" name="Destroyed ON LP Button.png" compile="0" resource="1"
-            file="Assets/Destroyed ON LP Button.png"/>
-      <FILE id="jnz7Vr" name="GUI definitivaBG Destroy.png" compile="0" resource="1"
-            file="Assets/GUI definitivaBG Destroy.png"/>
-      <FILE id="Jbbhhw" name="GUI definitivaBG.png" compile="0" resource="1"
-            file="Assets/GUI definitivaBG.png"/>
-      <FILE id="xXTdDz" name="Link Button.png" compile="0" resource="1" file="Assets/Link Button.png"/>
-      <FILE id="x8CSt2" name="LR Button.png" compile="0" resource="1" file="Assets/LR Button.png"/>
-      <FILE id="CtQViW" name="LR labels meters.png" compile="0" resource="1"
-            file="Assets/LR labels meters.png"/>
-      <FILE id="h1uuHS" name="LR labels.png" compile="0" resource="1" file="Assets/LR labels.png"/>
-      <FILE id="abs6xs" name="Meter Destroyed.png" compile="0" resource="1"
-            file="Assets/Meter Destroyed.png"/>
-      <FILE id="vCgJT0" name="Meter.png" compile="0" resource="1" file="Assets/Meter.png"/>
-      <FILE id="hNZDf0" name="MS Button.png" compile="0" resource="1" file="Assets/MS Button.png"/>
-      <FILE id="Fp223m" name="MS labels meters.png" compile="0" resource="1"
-            file="Assets/MS labels meters.png"/>
-      <FILE id="PxkpYR" name="MS labels.png" compile="0" resource="1" file="Assets/MS labels.png"/>
-      <FILE id="hySnZR" name="New Knob Small.png" compile="0" resource="1"
-            file="Assets/New Knob Small.png"/>
-      <FILE id="mCUnHt" name="OFF BP Button.png" compile="0" resource="1"
-            file="Assets/OFF BP Button.png"/>
-      <FILE id="HtbU8n" name="OFF Button.png" compile="0" resource="1" file="Assets/OFF Button.png"/>
-      <FILE id="xll50G" name="OFF HP Button.png" compile="0" resource="1"
-            file="Assets/OFF HP Button.png"/>
-      <FILE id="TjngZX" name="OFF LP Button.png" compile="0" resource="1"
-            file="Assets/OFF LP Button.png"/>
-      <FILE id="uIt2lu" name="OFF LR Button.png" compile="0" resource="1"
-            file="Assets/OFF LR Button.png"/>
-      <FILE id="qs4Mnd" name="OFF MS Button.png" compile="0" resource="1"
-            file="Assets/OFF MS Button.png"/>
-      <FILE id="uK7cE9" name="ON BP Button.png" compile="0" resource="1"
-            file="Assets/ON BP Button.png"/>
-      <FILE id="Q7Z9SF" name="ON Button.png" compile="0" resource="1" file="Assets/ON Button.png"/>
-      <FILE id="ZVfa8V" name="ON HP Button.png" compile="0" resource="1"
-            file="Assets/ON HP Button.png"/>
-      <FILE id="LPNgNY" name="ON LP Button.png" compile="0" resource="1"
-            file="Assets/ON LP Button.png"/>
-      <FILE id="U5e6vA" name="Primary Destroyed.png" compile="0" resource="1"
-            file="Assets/Primary Destroyed.png"/>
-      <FILE id="wg52hT" name="Primary Disabled.png" compile="0" resource="1"
-            file="Assets/Primary Disabled.png"/>
-      <FILE id="aSEVcU" name="Primary.png" compile="0" resource="1" file="Assets/Primary.png"/>
-      <FILE id="xPjoiM" name="Secondary Destroyed.png" compile="0" resource="1"
-            file="Assets/Secondary Destroyed.png"/>
-      <FILE id="metJII" name="Secondary Disabled.png" compile="0" resource="1"
-            file="Assets/Secondary Disabled.png"/>
-      <FILE id="y8xwkb" name="Secondary.png" compile="0" resource="1" file="Assets/Secondary.png"/>
-      <FILE id="ll0SBr" name="Undestroy Button.png" compile="0" resource="1"
-            file="Assets/Undestroy Button.png"/>
-      <FILE id="U7lPrY" name="Unlink Button.png" compile="0" resource="1"
-            file="Assets/Unlink Button.png"/>
-    </GROUP>
-    <GROUP id="{B6C890AF-FB8C-B4B7-B5DC-C1411772FB5F}" name="Source">
-      <FILE id="f6CdZg" name="ChannelComponent.cpp" compile="1" resource="0"
-            file="Source/ChannelComponent.cpp"/>
-      <FILE id="ncOII4" name="ChannelComponent.h" compile="0" resource="0"
-            file="Source/ChannelComponent.h"/>
-      <FILE id="wdKXtR" name="PLASLevelMeter.cpp" compile="1" resource="0"
-            file="Source/PLASLevelMeter.cpp"/>
-      <FILE id="z3FA5E" name="PLASLevelMeter.h" compile="0" resource="0"
-            file="Source/PLASLevelMeter.h"/>
-      <FILE id="XXKKGC" name="PlasLookAndFeel.cpp" compile="1" resource="0"
-            file="Source/PlasLookAndFeel.cpp"/>
-      <FILE id="FKXyLI" name="PlasLookAndFeel.h" compile="0" resource="0"
-            file="Source/PlasLookAndFeel.h"/>
-      <FILE id="CG8pWV" name="PluginEditor.cpp" compile="1" resource="0"
-            file="Source/PluginEditor.cpp"/>
-      <FILE id="JuU75I" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
-      <FILE id="tMm1w3" name="PluginProcessor.cpp" compile="1" resource="0"
-            file="Source/PluginProcessor.cpp"/>
-      <FILE id="AbfDoC" name="PluginProcessor.h" compile="0" resource="0"
-            file="Source/PluginProcessor.h"/>
-    </GROUP>
-  </MAINGROUP>
-  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
+              pluginFormats="buildAU,buildVST3" companyName="PLAS" pluginName="ADHD"
+              pluginDesc="Auto Destructive Harmonic Distortion" pluginManufacturer="PLAS"
+              pluginManufacturerCode="PLAS" pluginVST3Category="Distortion">
+  <MAINGROUP id="fSjJcU" name="ADHD"/>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
   <EXPORTFORMATS>
     <VS2019 targetFolder="Builds/VisualStudio2019">
       <CONFIGURATIONS>
@@ -107,14 +14,19 @@
         <CONFIGURATION isDebug="0" name="Release" targetName="ADHD"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_core" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_data_structures" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_dsp" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_events" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_graphics" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_gui_basics" path="../../../../../../Downloads/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_formats" path="../../../../../../Downloads/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_basics" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../../../Downloads/JUCE/modules"/>
       </MODULEPATHS>
     </VS2019>
     <VS2022 targetFolder="Builds/VisualStudio2022">
@@ -123,14 +35,19 @@
         <CONFIGURATION isDebug="0" name="Release" targetName="ADHD"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_core" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_data_structures" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_dsp" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_events" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_graphics" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_gui_basics" path="../../../../../../Downloads/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_formats" path="../../../../../../Downloads/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_basics" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../../../Downloads/JUCE/modules"/>
       </MODULEPATHS>
     </VS2022>
     <XCODE_MAC targetFolder="Builds/MacOSX">
@@ -139,25 +56,36 @@
         <CONFIGURATION isDebug="0" name="Release" targetName="ADHD"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_core" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_data_structures" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_dsp" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_events" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_graphics" path="../../../../../../Downloads/JUCE/modules"/>
         <MODULEPATH id="juce_gui_basics" path="../../../../../../Downloads/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_formats" path="../../../../../../Downloads/JUCE/modules"/>
-        <MODULEPATH id="juce_audio_basics" path="../../../../../../Downloads/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../../../Downloads/JUCE/modules"/>
       </MODULEPATHS>
     </XCODE_MAC>
   </EXPORTFORMATS>
   <MODULES>
     <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
   </MODULES>
 </JUCERPROJECT>
