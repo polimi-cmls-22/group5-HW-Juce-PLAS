@@ -1,5 +1,4 @@
 #Removing the element of the repo which are specific of the system on which the plugin is built
 **/Builds
 **/JuceLibraryCode
-*.jucer
 **/.vs
