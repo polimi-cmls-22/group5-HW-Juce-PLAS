@@ -83,7 +83,7 @@ In order to build the plugin on your own Computer:
 
    * Two double level meters allow to monitor the input and output PEAK-Levels.
   
-   * The destoy button allows the user to add a distortion block that enhances harmonic content transforming the first gain dial in a linear input gain.
+   * The destroy button allows the user to add a distortion block that enhances harmonic content transforming the first gain dial in a linear input gain.
 
    * The **Destruction Dial** controls a characteristic parameter for the Destruction function that allows to modify the dynamic function in order to enhance the harmonic content. 
 
